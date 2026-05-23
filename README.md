@@ -1,4 +1,4 @@
-# Airbnb JavaScript Style Guide (branch2 изменение 1)
+# Airbnb JavaScript Style Guide (branch2 изменение 2)
 
 *A mostly reasonable approach to JavaScript*
 
