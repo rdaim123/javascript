@@ -1,4 +1,4 @@
-kgkgjgjgjgj
+bnmnvcvbnm,nbvcx
 # Airbnb JavaScript Style Guide (branch1 изменение 3)
 
 *A mostly reasonable approach to JavaScript*
